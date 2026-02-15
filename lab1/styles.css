@@ -1,4 +1,8 @@
+h1{
+  text-align: center;
+}
 h2{
+  text-align: center;
   color: red;
 }
 .highlight {
@@ -6,4 +10,7 @@ h2{
   font-size: 16px;
   font-weight: bold;
   font-family: Cambria;
+}
+p{
+  font-size: 14px;
 }
